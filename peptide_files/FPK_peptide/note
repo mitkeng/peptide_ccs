@@ -8,3 +8,5 @@ The logfiles contain the quantum mechanical charge calculation results from the 
 
 The logdispersion files were produced from the same process and level of theory as the logfiles but with the addition of gd3 empirical dispersion
 for both charge and geom-opt steps. 
+
+The alphfold pdb file contains the top rank original raw 3D structure generated from alphafold2
