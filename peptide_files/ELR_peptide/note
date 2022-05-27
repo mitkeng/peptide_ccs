@@ -4,9 +4,10 @@ conformation generation and:
 then...
 (2) Autograph clustering 
 
-The logfiles contain the quantum mechanical charge calculation results from the geometry optimization of the centers using DFT B3LYP/6-31G*
+The logfiles contain the quantum mechanical charge calculation results from the geometry optimization of the centers using DFT B3LYP/6-31G*.
 
 The logdispersion files were produced from the same process and level of theory as the logfiles but with the addition of gd3 empirical dispersion
 for both charge and geom-opt steps. 
 
-The alphfold pdb file contains the top rank original raw 3D structure generated from alphafold2
+The alphfold pdb file contains the top rank original raw 3D structure generated from alphafold2 that was used as the starting structure for
+generating the conformers.
