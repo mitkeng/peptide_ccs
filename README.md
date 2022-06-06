@@ -13,5 +13,5 @@ This is a repository of data and results from quantum calculations of protomer e
 <br/>
 
 
-Example of an intramolecular condensation reaction incident for the peptide FPK using B3LYP/6-31G*
+Incident of an intramolecular condensation reaction for FPK peptide using B3LYP/6-31G*
 ![FPK_conden](https://user-images.githubusercontent.com/97419520/171845740-69006758-bfad-46ed-89c0-f9509b110ef1.png)
