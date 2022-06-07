@@ -13,6 +13,6 @@ This is a repository of data and results from quantum calculations of protomer e
 <br/>
 
 
-The realization of an intramolecular condensation reaction, and subsequent ring formation, for FPK peptide with an amide carbonyl protonation site (+1) using B3LYP/6-31G*
+The realization of a ring formation from an intramolecular condensation reaction using B3LYP/6-31G* for FPK peptide with a protonated (+1) carboxylic acid group.
 
 ![FPK_conde](https://user-images.githubusercontent.com/97419520/172391122-d2dec591-09e9-4df8-9e21-a425b8776c72.png)
