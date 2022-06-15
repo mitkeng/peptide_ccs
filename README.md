@@ -12,6 +12,7 @@ This is a repository of data and results from quantum calculations of protomer e
 <br/>
 <br/>
 <br/>
+<br/>
 
 Incident of a ring formation via an intramolecular condensation reaction using B3LYP/6-31G* for FPK peptide with a protonated (+1) carboxylic acid group.
 
