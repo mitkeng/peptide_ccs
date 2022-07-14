@@ -20,9 +20,14 @@ Incident of a ring formation via an intramolecular condensation reaction using B
 
 
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-
-
+![dispersion_ex](https://user-images.githubusercontent.com/97419520/178929675-6bfd8a70-7a09-4721-9365-58876fedbd17.png)
 
 
 
