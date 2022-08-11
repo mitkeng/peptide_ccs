@@ -1,4 +1,4 @@
-﻿percent nonpolar,number nonpolar ,max,min,STD,length,negative values,positive values,middle,first,last,corrector
+﻿percent nonpolar,nonpolar ,max,min,STD,length,negative values,positive values,middle,first,last,corrector
 0.33,1,4.38,-0.34,1.62,3,1,2,-0.34,3.173,4.383,1
 0.33,1,3.17,1.68,1.15,3,0,3,1.68,3.173,2.101,1
 0.33,1,2.1,-0.37,0.7,3,2,1,-0.32,-0.37,2.101,0
